@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayank-ramchandani
 - 👀 I’m interested in Software Development, Neuroscience and Machine Learning
-- 🌱 I’m currently learning Machine Learning in Octave
+- 🌱 I’m currently learning Machine Learning in Python
 - 💞️ I’m looking to collaborate on future Software Development projects
 - 📫 To reach me, send me a message on https://www.linkedin.com/in/mayank-ramchandani/, or https://www.instagram.com/mayank.ramchandani1/
 
